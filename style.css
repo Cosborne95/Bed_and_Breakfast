@@ -1,0 +1,70 @@
+
+.header img {
+  max-height: 900px;
+}
+
+.header h5 {
+  font-variant-caps: small-caps;
+  font-size: 2em;
+}
+
+.header p {
+  font-size: 1.5em;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2em;
+  color: green;
+}
+
+.card-title {
+  font-size: 2em;
+}
+
+.card-text {
+  font-size: 2em;
+}
+
+.card-deck img {
+  max-width: 600px;
+  max-height: 800px;
+}
+
+.card-deck {
+  margin-top: 20px;
+
+}
+
+.youtube {
+  margin-top: 30px;
+  margin-left: 30%;
+}
+
+.blockquote {
+  background-color: black;
+}
+
+.blockquote p {
+  color: white;
+}
+
+.contact-header p {
+    font-size: 3em;
+    color: green;
+    text-align: center;
+}
+
+.form {
+  padding: 10px 20px 0px 20px;
+}
+
+.words {
+  text-align: center;
+  font-size: 2em;
+}
+
+.map {
+  margin-left: 5px;
+  padding: 20px;
+}
